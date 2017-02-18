@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/introduction-to-es6/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/introduction-to-es6#readme"
+  "homepage": "https://github.com/learn-co-curriculum/introduction-to-es6#readme",
+    "devDependencies": {
+    "expect": "^1.20.1",
+    "jsdom": "^9.3.0",
+    "mocha": "^2.5.3",
+    "mocha-jsdom": "^1.1.0",
+    "mocha-multi": "^0.9.0"
+  }
 }
